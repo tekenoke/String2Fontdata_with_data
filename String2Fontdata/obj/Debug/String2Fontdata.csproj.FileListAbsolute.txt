@@ -48,3 +48,13 @@ C:\Users\MLON\Desktop\String2Fondata.git\String2Fontdata\obj\Debug\String2Fontda
 C:\Users\MLON\Desktop\String2Fondata.git\String2Fontdata\obj\Debug\String2Fontdata.csproj.CoreCompileInputs.cache
 C:\Users\MLON\Desktop\String2Fondata.git\String2Fontdata\obj\Debug\String2Fontdata.exe
 C:\Users\MLON\Desktop\String2Fondata.git\String2Fontdata\obj\Debug\String2Fontdata.pdb
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\bin\Debug\String2Fontdata.exe.config
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\bin\Debug\String2Fontdata.exe
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\bin\Debug\String2Fontdata.pdb
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\obj\Debug\String2Fontdata.csprojAssemblyReference.cache
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\obj\Debug\String2Fontdata.Form1.resources
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\obj\Debug\String2Fontdata.Properties.Resources.resources
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\obj\Debug\String2Fontdata.csproj.GenerateResource.cache
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\obj\Debug\String2Fontdata.csproj.CoreCompileInputs.cache
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\obj\Debug\String2Fontdata.exe
+C:\Users\MLON\Desktop\String2Fontdata\String2Fontdata2_with_data\String2Fontdata\obj\Debug\String2Fontdata.pdb

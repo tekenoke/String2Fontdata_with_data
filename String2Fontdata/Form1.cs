@@ -90,7 +90,7 @@ namespace String2Fontdata
 						textBox1.AppendText(strg);
 					}
 				}
-			} else {	// UniGraphicの場合、文字数,縦バイト数,横ビット数,縦バイト数のヘッダを付ける
+			} else {	// UniGraphicの場合、文字数,縦バイト数,横ビット数,縦バイト数のヘッダを付ける、データ順は縦バイトから
 				strg = "const\tunsigned char\t"+ Path.GetFileNameWithoutExtension(tbxFname.Text) + 
 					"[] __attribute__((aligned (2))) = {\r\n\t" + (charH / 8 * charW + 1).ToString() + ", " + charW.ToString() + ", " +
 					charH.ToString() + ", " + (charH / 8).ToString() + ", \r\n";
